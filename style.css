@@ -1,0 +1,62 @@
+*{
+    margin:0px;
+
+}
+.container{
+    padding-left: 40px;
+    border:1px solid rgb(218, 216, 216);
+    display:flex;
+}
+img{
+    display: inline;
+    width:330px;
+    height:230px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+.details{
+    margin-left:20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width:35%;
+    display:inline-block;
+}
+.price{
+    padding-top:10px;
+    margin-left:40px;
+    display:inline;
+}
+ul{
+    padding:20px;
+}
+.size{
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: rgb(43, 96, 209);
+}
+#paisa{
+    font-weight: bold;
+}
+.space{
+    margin-top:10px;
+}
+.first{
+    font-size: 25px;
+    color:rgba(0, 0, 0, 0.77);
+    
+}
+.on{
+    margin-top: 20px;
+    margin-left:20px;
+}
+#prod1{
+    margin-top:40px;
+}
+.off{
+    color:green;
+}
